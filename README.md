@@ -1,1 +1,3 @@
-# 3d_models
+# 3D Models
+
+Mostly drawn in blender. Someone else may find these useful.
